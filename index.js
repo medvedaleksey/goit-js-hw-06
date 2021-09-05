@@ -1,4 +1,4 @@
-import users from "users"
+import users from "./users"
 // Задание 1
 //  Получить массив имен всех пользователей (поле name).
 console.log('======');
